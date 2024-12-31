@@ -1,0 +1,59 @@
+.InfoBox {
+    text-align: center;
+    display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.cardContainer {
+    display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 50vh;
+  padding: 1px;
+  background-color: white;
+    
+}
+
+.typography {
+
+        font-family: 'Roboto', sans-serif;
+        font-size: 16px;
+        line-height: 1.6;
+        background-color: #14353a;
+        font-size: 1.2rem;
+        color: #e6c6c6;
+    
+      }
+      
+      
+
+.typo {
+    font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 1.6;
+  background-color: #28b9cc;
+  font-size: 1.2rem;
+  color: #555;
+}   
+
+.sunny {
+    background: linear-gradient(to top right, #ffeb3b, #fbc02d);
+  }
+  
+  .cloudy {
+    background: linear-gradient(to top right, #9e9e9e, #607d8b);
+  }
+  
+  .rainy {
+    background: linear-gradient(to top right, #4fc3f7, #039be5);
+  }
+  
+  
+      
+      
+        
+      

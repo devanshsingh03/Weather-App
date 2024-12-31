@@ -1,0 +1,19 @@
+.SearchBox{
+    text-align: center;
+    /* padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 250px;
+    /* text-align: center; */
+    /* margin-bottom: 25px; 
+    margin-right: 25px; */
+}  
+
+button {
+    padding: 10px 20px;
+    background-color: #4CAF50; /* Green button */
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
